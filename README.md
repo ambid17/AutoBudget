@@ -18,3 +18,4 @@ Steps:
  - Follow the rest of the steps at the link above
 
 4. I tried building, got an error. I looke at the ModernWpf "issues", and found the solution: https://github.com/Kinnara/ModernWpf/issues/425
+5. We can now build and run, and we get a decent looking app out of the box
