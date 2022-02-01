@@ -16,3 +16,5 @@ Steps:
 3. Install ModernWpf:  https://github.com/Kinnara/ModernWpf
  - In VS: Tools > Nuget Package Manager > Open Package Manager Console
  - Follow the rest of the steps at the link above
+
+4. I tried building, got an error. I looke at the ModernWpf "issues", and found the solution: https://github.com/Kinnara/ModernWpf/issues/425
