@@ -15,4 +15,4 @@ Steps:
   
 3. Install ModernWpf:  https://github.com/Kinnara/ModernWpf
  - In VS: Tools > Nuget Package Manager > Open Package Manager Console
- - Type the following and hit enter: https://github.com/Kinnara/ModernWpf
+ - Follow the rest of the steps at the link above
