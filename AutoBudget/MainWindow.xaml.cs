@@ -24,5 +24,10 @@ namespace AutoBudget
         {
             InitializeComponent();
         }
+
+        private void Download_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
